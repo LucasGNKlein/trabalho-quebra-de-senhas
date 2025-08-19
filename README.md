@@ -14,6 +14,6 @@ A realizar:
 
 Orientações Gerais:
 
-Fechar outros programas quando for rodar os códigos, para que não haja interferência nos tempos de execução.
+Fechar outros programas quando for rodar os códigos, para que não haja interferência nos tempos de execução.  
 Se estiver utilizando um notebook, ao executar certificar-se de que não entre em modo de economia de energia (executar com o carregador conectado).
 Realização individual.
