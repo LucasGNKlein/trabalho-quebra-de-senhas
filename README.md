@@ -25,3 +25,4 @@ Primeiro precisamos garantir que a WSL estava instalada adequadamente.
 Pode-se utilizar tanto o Powershell quando o Prompt de Comando (cmd), no projeto utilizei o Prompt por questão de comodidade mesmo.  
 Execute o comando 'wsl --install' (sem aspas simples), a WSL possui várias distribuições (para ver as outras distribuições disponíveis execute o comando 'wsl --list --online' e caso queira instalar outra distribuição execute o comando 'wsl --install -d <NomeDaDistribuição>'), porém utilizaremos a padrão do Ubuntu. 
 Após a instalação, será necessário criar um usuário e uma senha de acesso.  
+É interessante atualizar a wsl caso para o caso de alguma coisa não estiver correta, execute o comando 'wsl --update'.  
