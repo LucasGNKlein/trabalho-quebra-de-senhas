@@ -20,5 +20,6 @@ Realização individual.
 
 Introdução:
 
-Utilizaremos a WSL (Windows Subsystem for Linux) vinculada ao VSCode para a execução dos códigos.
-Primeiro precisamos garantir que a WSL estava instalada adequadamente.
+Utilizaremos a WSL (Windows Subsystem for Linux) vinculada ao VSCode para a execução dos códigos.  
+Primeiro precisamos garantir que a WSL estava instalada adequadamente. Pode-se utilizar tanto o Powershell quando o Prompt de Comando (cmd), no projeto utilizei o Prompt por questão de comodidade mesmo.  
+Execute o comando 'wsl --install' (sem aspas simples), a WSL possui várias distribuições (para ver as outras distribuições disponíveis execute o comando 'wsl --list --online' e caso queira instalar outra distribuição execute o comando 'wsl --install -d <NomeDaDistribuição>'), porém utilizaremos a padrão do Ubuntu. 
